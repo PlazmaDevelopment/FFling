@@ -89,4 +89,4 @@ Yes! It's amazing in some ways. Just start coding with FFling and see!
 
 ## Made by PlazmaDevelopment
 
-Thanks for using FFlang!
+Thanks for using FFling!
